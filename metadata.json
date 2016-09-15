@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "author": "gorantornqvist",
   "summary": "Pass an array of virtual resources and it will be realized, nothing more, nothing less. Best used with an ENC.",
-  "license": "GPLv3",
+  "license": "LGPL-3.0",
   "source": "https://github.com/gorantornqvist/puppet-array_realize",
   "project_page": "https://github.com/gorantornqvist/puppet-array_realize",
   "issues_url": "https://github.com/gorantornqvist/puppet-array_realize/issues",
