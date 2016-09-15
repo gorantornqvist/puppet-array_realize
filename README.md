@@ -7,11 +7,12 @@ This is useful when you define all your users or ssh keys as virtual resources i
 ---
 
 Examples
-
+```
 class { 'array_realize':
   realize => [File['/tmp/myfile'],Ssh_authorized_key['root_key'],Mymodule::Mycustomdefinedtype['something']]
 }
-
+```
+```
 ---
 classes:
   array_realize:
@@ -19,3 +20,4 @@ classes:
       - File['/tmp/myfile']
       - Ssh_authorized_key['root_key']
       - Mymodule::Mycustomdefinedtype['something']
+```
