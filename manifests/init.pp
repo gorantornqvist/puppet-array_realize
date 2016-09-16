@@ -1,5 +1,5 @@
 class array_realize(
   $realize = []
 ) {
-  realize($realize)
+  realize(any2array($realize))
 }
