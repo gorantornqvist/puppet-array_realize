@@ -1,8 +1,8 @@
 {
   "name": "gorantornqvist-array_realize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "gorantornqvist",
-  "summary": "Pass an array of virtual resources and it will be realized, nothing more, nothing less. Best used with an ENC.",
+  "summary": "Pass an array of virtual resources and it will be realized, nothing more, nothing less. Best used with an ENC and/or Hiera",
   "license": "LGPL-3.0",
   "source": "https://github.com/gorantornqvist/puppet-array_realize",
   "project_page": "https://github.com/gorantornqvist/puppet-array_realize",
