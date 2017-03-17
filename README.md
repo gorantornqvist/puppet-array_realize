@@ -27,7 +27,7 @@ array_realize:
 Hiera: 
 ``` 
 array_realize::hiera_array: 
- - File[/tmp/myfile]:
- - Ssh_authorized_key[root_key]:
- - Mymodule::Mycustomdefinedtype[something]:
+ - File[/tmp/myfile]
+ - Ssh_authorized_key[root_key]
+ - Mymodule::Mycustomdefinedtype[something]
 ```
